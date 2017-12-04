@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		827DAA55197BAFED0009B00B /* MyScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyScene.sks; sourceTree = "<group>"; };
+		82F809AB197BB049008F70B2 /* Fractal.fsh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = Fractal.fsh; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		827DAA4E197BAFD70009B00B = {
+			isa = PBXGroup;
+			children = (
+				82F809AB197BB049008F70B2 /* Fractal.fsh */,
+				827DAA55197BAFED0009B00B /* MyScene.sks */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		827DAA4F197BAFD70009B00B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+			};
+			buildConfigurationList = 827DAA52197BAFD70009B00B /* Build configuration list for PBXProject "FractalPlay" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 827DAA4E197BAFD70009B00B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		827DAA53197BAFD70009B00B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		827DAA54197BAFD70009B00B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		827DAA52197BAFD70009B00B /* Build configuration list for PBXProject "FractalPlay" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				827DAA53197BAFD70009B00B /* Debug */,
+				827DAA54197BAFD70009B00B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 827DAA4F197BAFD70009B00B /* Project object */;
+}
